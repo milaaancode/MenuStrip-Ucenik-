@@ -1,0 +1,13 @@
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\bin\Debug\Ucenik zadatak(vezbanjetest).exe.config
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\bin\Debug\Ucenik zadatak(vezbanjetest).exe
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\bin\Debug\Ucenik zadatak(vezbanjetest).pdb
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).csproj.AssemblyReference.cache
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).csproj.SuggestedBindingRedirects.cache
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik_zadatak_vezbanjetest_.Form1.resources
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik_zadatak_vezbanjetest_.Form2.resources
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik_zadatak_vezbanjetest_.Properties.Resources.resources
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).csproj.GenerateResource.cache
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).csproj.CoreCompileInputs.cache
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).exe
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik zadatak(vezbanjetest).pdb
+E:\Visual za skolu\C#\Ucenik zadatak(vezbanjetest)\Ucenik zadatak(vezbanjetest)\obj\Debug\Ucenik_zadatak_vezbanjetest_.Form3.resources
